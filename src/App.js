@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import First from './component/First';
+import GitLearn from './component/Maqw';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
          Muhammad Maqbool 
       </h1>
       <First/>
+      <GitLearn/>
     </div>
   );
 }

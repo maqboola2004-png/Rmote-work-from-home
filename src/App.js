@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import First from './component/First';
 import GitLearn from './component/Maqw';
+import UpdateLearn from './component/Update';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       </h1>
       <First/>
       <GitLearn/>
+     <UpdateLearn/>
     </div>
   );
 }

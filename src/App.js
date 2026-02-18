@@ -4,6 +4,7 @@ import First from './component/First';
 import GitLearn from './component/Maqw';
 import UpdateLearn from './component/Update';
 import Maqbool from './component/Maqbool';
+import OkyLearn from './component/Oky';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <GitLearn/>
      <UpdateLearn/>
      <Maqbool/>
+     <OkyLearn/>
     </div>
   );
 }

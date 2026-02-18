@@ -3,6 +3,7 @@ import './App.css';
 import First from './component/First';
 import GitLearn from './component/Maqw';
 import UpdateLearn from './component/Update';
+import Maqbool from './component/Maqbool';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <First/>
       <GitLearn/>
      <UpdateLearn/>
+     <Maqbool/>
     </div>
   );
 }

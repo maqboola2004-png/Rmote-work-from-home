@@ -4,9 +4,8 @@ const UpdateLearn = () => {
   return (
     <div>
 
-<<<<<<< HEAD
-        </h1>
         <h1>
+        <h1/>
            hello my name is husnain ali
         </h1>
         <h1>
@@ -25,7 +24,6 @@ const UpdateLearn = () => {
          Bs data science and Bs ARtifial intelligence
         </h1>
         
-=======
        <h1>
          husnian ali 
        </h1>
@@ -45,7 +43,6 @@ const UpdateLearn = () => {
          husnian ali 
        </h1>
        
->>>>>>> 4ed5eb41cc718e75146f4e0c1c51989ac32926da
         </div>
   )
 }
